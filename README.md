@@ -1,4 +1,4 @@
-# tesysma
+# Tesysma
 Environment Temperature Monitoring System and Alarm
 ##
 <img src="GSMBoardV1.2-2-0.png"/>
